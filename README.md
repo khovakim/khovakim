@@ -13,6 +13,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/So_long-42">
+  so_long ______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2674895">
+  </a> 
+</p>
+
 <!--
 Here are some ideas to get you started:
 
