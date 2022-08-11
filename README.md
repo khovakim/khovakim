@@ -13,6 +13,31 @@
   </a>
 </p>
 
+
+
+
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/Libft">
+  libft_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2527112">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/get_next_line">
+  get-next-line_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2544537">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/ft_printf-42">
+  ft-printf_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2549016">
+  </a> 
+</p>
+
 <p align="center">
   <a href="https://github.com/YEREVAN-42/So_long-42">
   so_long ______
