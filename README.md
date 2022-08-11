@@ -19,29 +19,64 @@
 
 <p align="center">
   <a href="https://github.com/YEREVAN-42/Libft">
-  libft_______
+  Libft_______
     <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2527112">
   </a> 
 </p>
 
 <p align="center">
   <a href="https://github.com/YEREVAN-42/get_next_line">
-  get-next-line_______
+  Get-next-line_______
     <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2544537">
   </a> 
 </p>
 
 <p align="center">
   <a href="https://github.com/YEREVAN-42/ft_printf-42">
-  ft-printf_______
+  Ft-printf_______
     <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2549016">
   </a> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/YEREVAN-42/So_long-42">
-  so_long ______
+  <a>
+  Born2beroot_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2560173">
+  </a> 
+</p>
+
+<p align="center">
+  <a>
+  Exam Rank 02_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2568685">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/Push_Swap-42">
+  Push-swap______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2593484">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/Minitalk-42">
+  Minitalk______
     <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2674895">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/So_long-42">
+  So_long______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2674895">
+  </a> 
+</p>
+
+<p align="center">
+  <a>
+  Exam Rank 03_______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2568685">
   </a> 
 </p>
 
