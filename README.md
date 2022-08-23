@@ -80,6 +80,13 @@
   </a> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/Philosophers_42">
+  Philosophers______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2568685">
+  </a> 
+</p>
+
 <!--
 Here are some ideas to get you started:
 
