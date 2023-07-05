@@ -94,6 +94,13 @@
   </a> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/YEREVAN-42/Minishell_42">
+  Cub3D______
+    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2560173">
+  </a> 
+</p>
+
 <!--
 Here are some ideas to get you started:
 
