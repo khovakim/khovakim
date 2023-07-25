@@ -103,18 +103,10 @@
 
 <p align="center">
   <a href="https://github.com/YEREVAN-42/CPP_Modules_42">
-  Modul00_______
+  Moduls_______
     <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2549016">
   </a> 
 </p>
-
-<p align="center">
-  <a href="https://github.com/YEREVAN-42/CPP_Modules_42">
-  Modul01_______
-    <img src="https://badge42.vercel.app/api/v2/cl6oxvc8c00590gladwekzwof/project/2549016">
-  </a> 
-</p>
-
 <!--
 Here are some ideas to get you started:
 
